@@ -13,6 +13,7 @@ SRC_URI=" \
             git://git.denx.de/u-boot.git;branch=master \
             file://0001-Set-up-environment-for-OSTree-integration.patch \
 	    file://0002-Replace-wraps-with-built-in-code-to-remove-dependenc.patch \
+	    file://0001-Move-Cache-As-RAM-memory-from-area-mapped-to-ROM-in-.patch \
 	    file://fix-build-error-under-gcc6.patch \
 	    "
 
