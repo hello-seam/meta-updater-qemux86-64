@@ -30,7 +30,7 @@ Checkout:
 
   stage: checkout
   variables:
-    MANIFEST: master
+    MANIFEST: zeus
     CURRENT_PROJECT: meta-updater-qemux86-64
   except:
     - pushes
